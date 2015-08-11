@@ -1,0 +1,7 @@
+# build directories
+target/
+
+# tmp vim files
+*~
+*.swp
+*.swo
