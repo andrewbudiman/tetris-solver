@@ -18,7 +18,7 @@ Restrictions:
 ## Example
 
 Unfinished matrix:
-
+```
       0    1    2    3
    ┌ ── ─ ── ─ ── ─ ── ┬
 0  ┃              ┃    ┃
@@ -33,8 +33,10 @@ Unfinished matrix:
    ┃      ──           ┃
 5  ┃         ┃    ┃    ┃
    └ ── ─ ── ─ ── ─ ── ┘
+```
 
 Completed matrix:
+```
       0    1    2    3
    ┌ ── ─ ── ─ ── ┬ ── ┬
 0  ┃              ┃    ┃
@@ -49,3 +51,4 @@ Completed matrix:
    ┃    └ ── ┐    ┃    ┃
 5  ┃         ┃    ┃    ┃
    └ ── ─ ── ┴ ── ┴ ── ┘
+```
